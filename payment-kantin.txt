@@ -1,0 +1,5 @@
+- dibutuhkan aplikasi yang didalamnya terdiri dari
+1. data Mahsiswa
+2. data kantin
+3. Menu 
+4. sistem pembayaran 
