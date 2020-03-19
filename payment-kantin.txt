@@ -3,5 +3,7 @@
   * Mahasiswa aktif 
   * Mahasiswa yang memiliki bank 
 2. data kantin
+  * Penjual Minuman
+  * Penjual Makanan
 3. Menu 
 4. sistem pembayaran 
