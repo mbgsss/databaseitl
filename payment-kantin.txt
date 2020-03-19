@@ -8,3 +8,4 @@
   * Penjual Makanan
 3. Menu 
 4. sistem pembayaran 
+6. Tambah Go-Pay
