@@ -2,10 +2,9 @@
 1. data Mahsiswa
   * Mahasiswa aktif 
   * Mahasiswa yang memiliki bank 
-  * Contoh NIM Mahasiswa C24140094
+  * Mahasiswa MTL, MTU, MLM
 2. data kantin
   * Penjual Minuman
   * Penjual Makanan
 3. Menu 
-4. sistem pembayaran 
-6. Tambah Go-Pay
+4. tambah go-Pay
