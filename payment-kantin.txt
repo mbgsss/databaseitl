@@ -2,6 +2,7 @@
 1. data Mahsiswa
   * Mahasiswa aktif 
   * Mahasiswa yang memiliki bank 
+  * Contoh NIM Mahasiswa C24140094
 2. data kantin
   * Penjual Minuman
   * Penjual Makanan
